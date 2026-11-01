@@ -1,4 +1,4 @@
-# Tropica Sales Command Centre
+# Operyntra Sales Command Centre
 
 This GitHub Pages dashboard reads its sales figures from `data/sales.json` on page load. The file in this package is a starter snapshot; follow [LIVE-DATA-SETUP.md](LIVE-DATA-SETUP.md) to connect the existing `Sales_Follow_Up_Tracker.xlsx` workbook to Power Automate and have it update the GitHub data file automatically.
 
